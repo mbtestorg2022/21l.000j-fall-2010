@@ -33,15 +33,84 @@ Students are expected to complete a minimum of 20 pages of writing, revise a wri
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Close reading essay (5 pp) | 10% |
-| Class presentation / handout | 10% |
-| Research essay (5 pp) | 15% |
-| Revision (5 pp) | 15% |
-| Character study essay (5 pp) | 15% |
-| Comparison essay (5 pp) | 15% |
-| Active participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Close reading essay (5 pp)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class presentation / handout
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research essay (5 pp)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revision (5 pp)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Character study essay (5 pp)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Comparison essay (5 pp)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Active Participation
 
@@ -62,27 +131,317 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Shelley. _Frankenstein,_ preface, preface to 1831 edition and volume I | &nbsp; |
-| 3 | Shelley. _Frankenstein,_ volume II | &nbsp; |
-| 4 | Shelley. _Frankenstein,_ volume III | &nbsp; |
-| 5 | Writing workshop: Close reading. Choose a report topic. | &nbsp; |
-| 6 | Library research workshop | Essay 1 (Close reading of a passage in _Frankenstein_ - 5 pp) due |
-| 7 |  {{< br >}}{{< br >}} _Frankenstein_ Sources and contexts: Reports (5 minutes) on Prometheus Myth (Hesiod's _Theogony_, Aeschylus' _Prometheus Bound_), Scientists (Erasmus Darwin, Luigi Galvani, Humphrey Davy), and Explorers (James Cook) {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} _Frankenstein_ Sources and contexts: Reports on Creature's reading list (Plutarch's _Lives_, Milton's _Paradise Lost_, Goethe's _The Sorrows of Young_ _Werther_) {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} _Frankenstein_ Sources and contexts: Reports on Romantic Poets (Shelley, Byron, Coleridge) and the Sublime (Burke) {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} _Frankenstein_ Sources and contexts: Philosophy (John Locke, Jean-Jacques Rousseau, William Godwin, Mary Wollstonecraft) {{< br >}}{{< br >}}  | Essay 2 (Research paper on the implications of a source or context for _Frankenstein_ - 5 pp) due 1 day after LEC #10 |
-| 12 |  {{< br >}}{{< br >}} _Frankenstein_ Adaptations: Early Silent Film {{< br >}}{{< br >}} Branagh, Kenneth. [_Frankenstein_](http://www.imdb.com/title/tt0109836/). 1994 {{< br >}}{{< br >}}  | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} _Frankenstein_ Adaptations: Early Silent Film (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | Revision workshop | Essay/Revision (Analysis of Shelley's use of a source in _Frankenstein_ \- 5 pp) due 2 days after LEC #14 |
-| 16 | Melville. _Benito Cereno_ | &nbsp; |
-| 17 | Melville. _Benito Cereno_ and Amasa Delano | &nbsp; |
-| 18 | Melville. _Benito Cereno_ and Performance | &nbsp; |
-| 19 | Writing workshop: Character study | Essay 3 (Study of character and performance in _Benito Cereno_) due 5 days after LEC #19 |
-| 21 | Wilde. _The Importance of Being Earnest_ | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Wilde. _The Importance of Being Earnest_ (cont.) {{< br >}}{{< br >}} Parker, Oliver. [_The Importance of Being Earnest_](http://www.imdb.com/title/tt0278500/). 2002 {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | Bechdel. _Fun Home_ | &nbsp; |
-| 24 | Bechdel. _Fun Home_ (cont.) | &nbsp; |
-| 25 | Writing workshop: Comparison essay | Essay 4 (Comparison of Wilde's and Bechdel's uses of a theme - 5 pp) due 2 days after LEC #25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Shelley. _Frankenstein,_ preface, preface to 1831 edition and volume I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Shelley. _Frankenstein,_ volume II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Shelley. _Frankenstein,_ volume III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Writing workshop: Close reading. Choose a report topic.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Library research workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 (Close reading of a passage in _Frankenstein_ - 5 pp) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Frankenstein_ Sources and contexts: Reports (5 minutes) on Prometheus Myth (Hesiod's _Theogony_, Aeschylus' _Prometheus Bound_), Scientists (Erasmus Darwin, Luigi Galvani, Humphrey Davy), and Explorers (James Cook)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Frankenstein_ Sources and contexts: Reports on Creature's reading list (Plutarch's _Lives_, Milton's _Paradise Lost_, Goethe's _The Sorrows of Young_ _Werther_)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Frankenstein_ Sources and contexts: Reports on Romantic Poets (Shelley, Byron, Coleridge) and the Sublime (Burke)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Frankenstein_ Sources and contexts: Philosophy (John Locke, Jean-Jacques Rousseau, William Godwin, Mary Wollstonecraft)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 (Research paper on the implications of a source or context for _Frankenstein_ - 5 pp) due 1 day after LEC #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Frankenstein_ Adaptations: Early Silent Film
+
+Branagh, Kenneth. [_Frankenstein_](http://www.imdb.com/title/tt0109836/). 1994
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Frankenstein_ Adaptations: Early Silent Film (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Revision workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Essay/Revision (Analysis of Shelley's use of a source in _Frankenstein_ \- 5 pp) due 2 days after LEC #14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Melville. _Benito Cereno_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Melville. _Benito Cereno_ and Amasa Delano
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Melville. _Benito Cereno_ and Performance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Writing workshop: Character study
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 (Study of character and performance in _Benito Cereno_) due 5 days after LEC #19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde. _The Importance of Being Earnest_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wilde. _The Importance of Being Earnest_ (cont.)
+
+Parker, Oliver. [_The Importance of Being Earnest_](http://www.imdb.com/title/tt0278500/). 2002
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Bechdel. _Fun Home_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Bechdel. _Fun Home_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Writing workshop: Comparison essay
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 4 (Comparison of Wilde's and Bechdel's uses of a theme - 5 pp) due 2 days after LEC #25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
